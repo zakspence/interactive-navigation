@@ -1,0 +1,10 @@
+nav a:hover {
+	color: tomato;	
+}
+nav li:hover {
+	background-color: yellow;
+}
+
+li a:active {
+	padding: 0 5px;
+}
